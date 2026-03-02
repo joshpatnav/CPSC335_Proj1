@@ -1,1 +1,16 @@
 # CPSC335_Proj1
+
+## Contributors:
+- Josh Navarro
+- Nicholas Tran
+- Keithan Nguyen
+- 
+
+## How to execute:
+
+For Algorithm1:
+
+python Algorithm1.py
+
+For Algorithm2: 
+
